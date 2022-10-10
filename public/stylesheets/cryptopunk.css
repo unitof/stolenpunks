@@ -344,6 +344,10 @@ p#ethereumAccount a {
     background: #add6b8;
 }
 
+.punk-history-row-theft {
+    background: #eef183;
+}
+
 table.table tr.attribute-row td {
     vertical-align: middle;
 }
